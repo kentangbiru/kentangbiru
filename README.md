@@ -6,15 +6,24 @@ I'm a **Beginner Penetration Tester** with a focus on identifying, analyzing, an
 
 ## 🛠 Skills and Tools
 
-- **Penetration Testing**: Web Applications, Network Security
+- **Penetration Testing**: Web Applications
 - **Programming**: Python
 - **Security Tools**: 
   - **Nmap**
   - **Burp Suite**
   - **Metasploit**
+  - **Sqlmap**
+  - **arp-scan**
+  - **dirb**
+  - **nikto**
 - **Operating Systems**: Kali Linux,Windows 
 
 ---
+
+## 🔍 About Me
+
+- 💼 Interested in vulnerability assessment, network security, and web application testing.
+- 🛠️ Exploring various CTF platforms, hands-on labs, and security challenges to expand my skills.
 
 <!--
 **kentangbiru/kentangbiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
